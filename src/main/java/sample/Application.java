@@ -31,6 +31,12 @@ import org.springframework.messaging.simp.stomp.StompFrameHandler;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+/*
+ * WebSocket client application. Performs client side setup and sends
+ * messages.
+ *
+ * @Author Jay Sridhar
+ */
 public class Application
 {
     static public class MyStompSessionHandler

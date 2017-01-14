@@ -1,5 +1,10 @@
 package sample;
 
+/*
+ * Message sent to server.
+ *
+ * @Author Jay Sridhar
+ */
 public class ClientMessage
 {
     private String from;

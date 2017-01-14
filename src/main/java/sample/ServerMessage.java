@@ -2,6 +2,11 @@ package sample;
 
 import java.util.Date;
 
+/*
+ * Message received from server.
+ *
+ * @Author Jay Sridhar
+ */
 public class ServerMessage
 {
     private String from;
